@@ -1,0 +1,87 @@
+2.2 Exercises
+	1a. 4567
+	1b. 89ab
+	1c. fedc
+	1d. 0252
+
+	2a. 1000 0011 1010 1111
+	2b. 1001 0000 0000 0001
+	2c. 1010 1010 1010 1010
+	2d. 0101 0101 0101 0101
+
+	3a. 32 bits
+	3b. 48 bits
+	3c. 4 bits
+	3d. 16 bits
+
+	4a. 2 hexadecimal digits
+	4b. 8 hexadecimal digits
+	4c. 16 hexadecimal digits
+	4d. 3 hexadecimal digits
+	4e. 5 hexadecimal digits
+	4f. 2 hexadecimal digits
+
+2.4 Exercises
+	1. Decimal: r = 10, n = 8, d7 = 2, d6 = 9, d5 = 4, d4 = 5, d3 = 8, d2 = 2, d1 = 5, d0 = 4
+	   Hexadecimal: r = 16, n = 8, d7 = 2, d6 = 9, d5 = 4, d4 = 5, d3 = 8, d2 = 2, d1 = 5, d0 = 4
+	
+	2. 165, r = 10
+	
+	3a. 170
+	3b. 85
+	3c. 240
+	3d. 15
+	3e. 128
+	3f. 99
+	3g. 123
+	3h. 255
+
+	4a. 43981
+	4b. 4660
+	4c. 65244
+	4d. 2015
+	4e. 32768
+	4f. 1024
+	4g. 31658
+	4h. 12345
+
+	5a. 40960
+	5b. 65535
+	5c. 1024
+	5d. 4369
+	5e. 34952
+	5f. 400
+	5g. 43981
+	5h. 21845
+
+2.6 Exercises
+	1. 1111011
+
+	2a. 64
+	2b. 7d
+	2c. 0a
+	2d. 58
+	2e. ff
+	2f. 10
+	2g. 20
+	2h. 80
+
+	3a. 0400
+	3b. 03e8
+	3c. 8000
+	3d. 7fff
+	3e. 0100
+	3f. ffff
+	3g. 1234
+	3h. abcd
+
+	4. Grade : A    A-   B+   B    B-   C+   C    C-   D+   D    D-   F
+	    Code : 0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 1010 1011
+	     Hex : 0    1    2    3    4    5    6    7    8    9    a    b
+
+2.8 Exercises
+	1. Four Bytes: 2fffeb96, 2fffeb97, 2fffeb98, 2fffeb99
+
+	2. 00100e: 00, 00100f: 01, 001010: 02, 001011: 03, 001012: 04 . . . 001029: 1b, 00102a: 1c, 00102b: 1d
+
+	3. 17th Byte : 00000010
